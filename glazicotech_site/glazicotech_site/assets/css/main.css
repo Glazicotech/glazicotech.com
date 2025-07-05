@@ -1,0 +1,36 @@
+
+body {
+  background-color: white;
+  color: black;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #004080;
+}
+header, section, footer {
+  padding: 2em;
+}
+nav a {
+  margin: 0 1em;
+  text-decoration: none;
+  color: #004080;
+}
+.button-large {
+  background-color: #004080;
+  color: white;
+  padding: 0.7em 1.5em;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+}
+#logo-img {
+  height: 60px;
+  vertical-align: middle;
+}
+.lang-switch {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
